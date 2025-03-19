@@ -89,6 +89,6 @@
 
 - ExecutorService
 
-- buildConfigField "String", "APP_BASE_URL", "\"https://admaker.postai.in/\""
+- buildConfigField "String", "APP_BASE_URL", "\"https://google.com/\""
 
   
