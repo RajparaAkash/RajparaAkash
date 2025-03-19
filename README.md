@@ -77,8 +77,7 @@
     }
 
 - runOnUiThread(() -> {
-                    
-                });
+  });
 
 - android:extractNativeLibs="false"
 - android:hardwareAccelerated="true"
