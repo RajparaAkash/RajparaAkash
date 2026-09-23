@@ -27,6 +27,30 @@ I enjoy turning ideas into polished mobile applications, solving complex develop
 
 ---
 
+## 🚀 Published Apps on Google Play
+
+Here are some apps I've developed :
+
+- 🎨 [Festival Poster: BrandFlex®](https://play.google.com/store/apps/details?id=com.brandflex.businessgreetingmaker.brandingapp)
+- 🖼️ [Poster Maker & Banner Maker](https://play.google.com/store/apps/details?id=com.adpostermaker.graphicdesign.flyermaker)
+- 🎬 [HD Video Player All Format](https://play.google.com/store/apps/details?id=com.hd.videoplayer.maxvideoplayer.allformat.player.video)
+- 🖼️ [Gallery - Photo Gallery, Album](https://play.google.com/store/apps/details?id=com.gallery.photography.manager.android)
+- 👥 [Contacts](https://play.google.com/store/apps/details?id=com.contacts.phonecontact.phonebook.dialer)
+- 📹 [Fig : AI Live Video Chat](https://play.google.com/store/apps/details?id=com.figvideo.videochat)
+- 🖼️ [Wallpapers HD & 4K](https://play.google.com/store/apps/details?id=com.aiwallpaper.generatorai)
+- 📄 [AI PDF : Editor & Assistant](https://play.google.com/store/apps/details?id=com.app.figpdfconvertor.figpdf)
+- 🌐 [English Spanish Translator](https://play.google.com/store/apps/details?id=com.figtranslator.spanish.english)
+- 💬 [English Hindi Translator](https://play.google.com/store/apps/details?id=com.figtranslator.hindi.english)
+- 🔤 [English French Translator](https://play.google.com/store/apps/details?id=com.figtranslator.french.english)
+- 🧮 [AI Math Tutor - Math Help](https://play.google.com/store/apps/details?id=com.aimathscanner.mathsolver)
+- 📊 [AIPPT: AI Presentation Maker](https://play.google.com/store/apps/details?id=com.ppt.slides.generator)
+- 🔢 [Calculator: Basic & Scientific](https://play.google.com/store/apps/details?id=com.scientific.calculator.basic)
+- 🌎 [English to Spanish Translator](https://play.google.com/store/apps/details?id=com.text.translator.spanish)
+- 📝 [AI Summarizer: Text Summary](https://play.google.com/store/apps/details?id=com.document.rephrase.summarizer)
+- 🌐 [All Language Translator](https://play.google.com/store/apps/details?id=com.text.all.translator)
+
+---
+
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Languages
