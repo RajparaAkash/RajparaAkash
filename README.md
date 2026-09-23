@@ -5,7 +5,7 @@
 ### 📱 Android Developer | 6+ Years of Experience | Java & Kotlin
 
 [![Email](https://img.shields.io/badge/Email-akashrajpara3%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:akashrajpara3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Rajpara-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/akash-rajpara/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Rajpara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rajpara/)
 [![GitHub](https://img.shields.io/badge/GitHub-RajparaAkash-181717?style=flat&logo=github)](https://github.com/RajparaAkash)
 
 </div>
