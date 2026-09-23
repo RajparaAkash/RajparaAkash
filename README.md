@@ -4,9 +4,8 @@
 
 ### 📱 Android Developer | 6+ Years of Experience | Java & Kotlin
 
-[![Email](https://img.shields.io/badge/Email-akashrajpara3%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:akashrajpara3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Rajpara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-rajpara/)
-[![GitHub](https://img.shields.io/badge/GitHub-RajparaAkash-181717?style=flat&logo=github)](https://github.com/RajparaAkash)
+[![Email](https://img.shields.io/badge/Email-akashrajpara3%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:akashrajpara3@gmail.com)
 
 </div>
 
@@ -69,3 +68,23 @@ Here are some apps I've developed :
 - **Monetization :** AdMob, Google Ad Manager, In-App Purchases
 - **Localization :** Multi-language Support, Localization
 - **Publishing :** Google Play Console, App Publishing
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** [akashrajpara3@gmail.com](mailto:akashrajpara3@gmail.com)
+- 📱 **Phone:** [+91 72018 34035](tel:+917201834035)
+- 💼 **LinkedIn:** [linkedin.com/in/akash-rajpara](https://www.linkedin.com/in/akash-rajpara)
+- 🌐 **Portfolio:** [portfolio-nqs5.vercel.app](https://portfolio-nqs5.vercel.app/)
+- 🐙 **GitHub:** [github.com/RajparaAkash](https://github.com/RajparaAkash)
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+**Android Developer | Java & Kotlin | Building useful mobile experiences**
+
+</div>
