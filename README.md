@@ -73,11 +73,11 @@ Here are some apps I've developed :
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [akashrajpara3@gmail.com](mailto:akashrajpara3@gmail.com)
-- 📱 **Phone:** [+91 72018 34035](tel:+917201834035)
-- 💼 **LinkedIn:** [linkedin.com/in/akash-rajpara](https://www.linkedin.com/in/akash-rajpara)
-- 🌐 **Portfolio:** [portfolio-nqs5.vercel.app](https://portfolio-nqs5.vercel.app/)
-- 🐙 **GitHub:** [github.com/RajparaAkash](https://github.com/RajparaAkash)
+- 📧 **Email :** [akashrajpara3@gmail.com](mailto:akashrajpara3@gmail.com)
+- 📱 **Phone :** [+91 72018 34035](tel:+917201834035)
+- 💼 **LinkedIn :** [linkedin.com/in/akash-rajpara](https://www.linkedin.com/in/akash-rajpara)
+- 🌐 **Portfolio :** [portfolio-nqs5.vercel.app](https://portfolio-nqs5.vercel.app/)
+- 🐙 **GitHub :** [github.com/RajparaAkash](https://github.com/RajparaAkash)
 
 ---
 
