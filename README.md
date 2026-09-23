@@ -1,93 +1,151 @@
-- 👋 Hi, I’m @RajparaAkash
+# 👋 Hi, I'm Akash Rajpara
 
+### 📱 Android Developer | 6+ Years of Experience | Java & Kotlin
 
-- ⚡ Useful Code
+[![GitHub](https://img.shields.io/badge/GitHub-RajparaAkash-181717?style=flat&logo=github)](https://github.com/RajparaAkash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Rajpara-0A66C2?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-- AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO);
-- android:excludeFromRecents="true"
+---
 
-- android.useAndroidX=true
-- android.nonTransitiveRClass=true
-- android.nonFinalResIds=false
-- android.enableJetifier=true
-- android.defaults.buildfeatures.buildconfig=true
+## 👨‍💻 About Me
 
-- android:foreground="?android:attr/selectableItemBackground"
-- defaultConfig {
-        resConfigs "en", "ar", "de", "es", "fr", "hi", "in", "it", "ja", "ko", "nl", "pt", "ru", "sv", "zh",
-                "bn", "fa", "gu", "ha", "jv", "mr", "pa","pl", "sw", "ta", "te", "th", "tr", "ur", "vi"
-    }
+I'm an **Android Developer with 6+ years of experience** building modern, reliable, and user-friendly Android applications.
 
-  bundle {
-        language {
-            enableSplit = false
-        }
-    }
+I specialize in **Java, Kotlin, Android SDK, REST APIs, Firebase, and mobile app development**.
 
-- buildFeatures {
-        buildConfig = true
-        viewBinding = true
-    }
+I enjoy turning ideas into polished mobile applications, solving complex development problems, and continuously learning new Android technologies.
 
-- MediaScannerConnection.scanFile(VaultGridDataActivity.this,new String[]{new File(folderPath).getAbsolutePath()}, null, null);
+- 📱 Android Developer with 6+ years of experience
+- ☕ Java & Kotlin
+- 🏗️ MVVM & Clean Architecture
+- 🔥 Firebase & Google Services
+- 🌐 REST APIs & JSON
+- 🗄️ Room Database & SQLite
+- 🎬 ExoPlayer & FFmpeg
+- 📊 AdMob & Google Ad Manager
+- 🚀 Google Play Store publishing & app optimization
 
-- File file = new File(context.getExternalFilesDir(null), ".TEMP");
-- getFilesDir()
-- getExternalFilesDir(null)
+---
 
-- overridePendingTransition(0, 0);
-  
-- jniLibs
-  ndk.abiFilters 'arm64-v8a','armeabi-v7a','x86','x86_64'
+## 🛠️ Skills & Technologies
 
+### 👨‍💻 Languages
 
-- <com.google.android.material.imageview.ShapeableImageView
-        android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:adjustViewBounds="true"
-        android:background="#F3F3F3"
-        app:shapeAppearanceOverlay="@style/RoundedCorner3dp" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white)
 
-  <style name="RoundedCorner3dp">
-        <item name="cornerSize">3%</item>
-    </style>
+### 📱 Android
 
-- getOnBackPressedDispatcher().onBackPressed();
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-- getOnBackPressedDispatcher().addCallback(new OnBackPressedCallback(true) {
-            @Override
-            public void handleOnBackPressed() {
-                finish();
-            }
-        });
+- Android SDK
+- Jetpack Components
+- ViewBinding
+- Navigation
+- Room Database
+- SQLite
+- SharedPreferences
+- MVVM
+- REST APIs
+- JSON / XML
+- Retrofit
+- Volley
 
-- private void configureBackPressedBehavior() {
-        OnBackPressedCallback callback = new OnBackPressedCallback(true) {
-            @Override
-            public void handleOnBackPressed() {
-                finish();
-            }
-        };
-        getOnBackPressedDispatcher().addCallback(this, callback);
+### 🔥 Firebase & Google
 
-        binding.backLay.setOnClickListener(view -> {
-            callback.handleOnBackPressed();
-        });
-    }
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-- runOnUiThread(() -> {
-  });
+- Firebase Analytics
+- Firebase Crashlytics
+- Firebase Remote Config
+- Firebase Cloud Messaging
+- Google AdMob
+- Google Ad Manager
 
-- android:extractNativeLibs="false"
-- android:hardwareAccelerated="true"
-- android:largeHeap="true"
-- android:networkSecurityConfig="@xml/network_security_config"
-- android:requestLegacyExternalStorage="true"
-- android:usesCleartextTraffic="true"
+### 🎬 Media & Other Tools
 
-- ExecutorService
+- ExoPlayer
+- FFmpeg
+- Glide
+- Picasso
+- Git & GitHub
+- Gradle
+- Android Studio
 
-- buildConfigField "String", "APP_BASE_URL", "\"https://google.com/\""
+---
 
-  
+## 🚀 Featured Projects
+
+### 📱 Loan EMI Calculator – Finance
+
+A finance utility app designed to help users calculate and understand EMI and different financial calculations.
+
+**Features:**
+- EMI Calculator
+- Business Loan Calculator
+- FD Calculator
+- RD Calculator
+- PPF Calculator
+- Loan Comparison
+
+---
+
+### 🌐 Nex – All Language Translator
+
+A multilingual translation application focused on simple and convenient language translation.
+
+**Features:**
+- Text Translation
+- Voice Translation
+- Camera Translation
+- Multiple Languages
+
+---
+
+### 📝 Notepad – Notes & Reminder
+
+A simple and clean Android note-taking application.
+
+**Features:**
+- Create Notes
+- Edit Notes
+- Delete Notes
+- Search
+- Reminders
+- Note Management
+
+---
+
+### ⏰ Alarm Clock – Timer & Stopwatch
+
+An Android utility application combining multiple time-management tools.
+
+**Features:**
+- Alarm
+- World Clock
+- Stopwatch
+- Timer
+- Daily Alarms
+
+---
+
+## 📦 Android Development Experience
+
+```text
+Android Development
+        │
+        ├── Java
+        ├── Kotlin
+        ├── Android SDK
+        ├── Jetpack
+        ├── MVVM
+        ├── Room / SQLite
+        ├── Retrofit / Volley
+        ├── Firebase
+        ├── AdMob
+        ├── ExoPlayer
+        └── FFmpeg
